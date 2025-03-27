@@ -32,6 +32,6 @@
 <br>
 <br>
 
-#### 🎯 Ruta de aprendizaje:
+### 🎯 Ruta de aprendizaje:
 
 [![GitHub Image](images/desarrollador_full_stack.png)](#)
