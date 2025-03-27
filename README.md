@@ -1,6 +1,6 @@
 <h1 align="center"><b>¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! Soy zuluta 👨🏻‍💻</b></h1>
 
-#### Lenguaje de marcado:
+#### Lenguajes de marcado:
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
