@@ -19,6 +19,6 @@
 <br>
 <br>
 
-#### 🎯 Ruta de aprendizaje marcado:
+#### 🎯 Ruta de aprendizaje:
 
 ![GitHub Image](images/desarrollador_full_stack.png)
