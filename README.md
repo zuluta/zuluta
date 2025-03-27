@@ -19,6 +19,6 @@
 <br>
 <br>
 
-#### Diagrama de conocimientos:
+#### Objetivo de aprendizaje:
 
 ![GitHub Image](images/desarrollador_full_stack.png)
