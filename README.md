@@ -19,4 +19,4 @@
 
 #### Diagram
 
-![GitHub Image](images/desarrollador_full_stack)
+![GitHub Image](images/desarrollador_full_stack.png)
