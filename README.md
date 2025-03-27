@@ -16,3 +16,7 @@
 
 [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)](#)
+
+#### Diagram
+
+![GitHub Image](images/desarrollador_full_stack)
