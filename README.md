@@ -34,4 +34,4 @@
 
 #### 🎯 Ruta de aprendizaje:
 
-![GitHub Image](images/desarrollador_full_stack.png)
+[![GitHub Image](images/desarrollador_full_stack.png)](#)
